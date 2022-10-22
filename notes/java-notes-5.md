@@ -11,7 +11,6 @@ public abstract class Forma {
   // aguardando para serem implementados
   public abstract double area();
   public abstract double perimetro();
-
 }
 ```
 
